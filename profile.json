@@ -1,0 +1,14 @@
+{
+  "name": "Jan Novák",
+  "skills": [
+    "HTML",
+    "CSS",
+    "PHP",
+    "Git"
+  ],
+  "interests": [
+    "Web development",
+    "Open source",
+    "UI/UX design"
+  ]
+}
